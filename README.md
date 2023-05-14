@@ -12,5 +12,6 @@ A directory of interesting tools and communities in the design
 ### Contributing
 - Make a pull request here :)
 
-Other lists:
-https://designtools.ai/
+## Other lists
+ - [designtools.ai](https://designtools.ai/)
+ - [Awesome Text-to-image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
